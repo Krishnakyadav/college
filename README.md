@@ -1,4 +1,4 @@
 # college
 this is my first repository
 <br>
-Author krishna yadav
+Author krishna kumar yadav
